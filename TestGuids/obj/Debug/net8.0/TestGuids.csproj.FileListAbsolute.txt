@@ -1,0 +1,14 @@
+C:\Work\Projects\TestGuids\TestGuids\bin\Debug\net8.0\TestGuids.exe
+C:\Work\Projects\TestGuids\TestGuids\bin\Debug\net8.0\TestGuids.deps.json
+C:\Work\Projects\TestGuids\TestGuids\bin\Debug\net8.0\TestGuids.runtimeconfig.json
+C:\Work\Projects\TestGuids\TestGuids\bin\Debug\net8.0\TestGuids.dll
+C:\Work\Projects\TestGuids\TestGuids\bin\Debug\net8.0\TestGuids.pdb
+C:\Work\Projects\TestGuids\TestGuids\obj\Debug\net8.0\TestGuids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Projects\TestGuids\TestGuids\obj\Debug\net8.0\TestGuids.AssemblyInfoInputs.cache
+C:\Work\Projects\TestGuids\TestGuids\obj\Debug\net8.0\TestGuids.AssemblyInfo.cs
+C:\Work\Projects\TestGuids\TestGuids\obj\Debug\net8.0\TestGuids.csproj.CoreCompileInputs.cache
+C:\Work\Projects\TestGuids\TestGuids\obj\Debug\net8.0\TestGuids.dll
+C:\Work\Projects\TestGuids\TestGuids\obj\Debug\net8.0\refint\TestGuids.dll
+C:\Work\Projects\TestGuids\TestGuids\obj\Debug\net8.0\TestGuids.pdb
+C:\Work\Projects\TestGuids\TestGuids\obj\Debug\net8.0\TestGuids.genruntimeconfig.cache
+C:\Work\Projects\TestGuids\TestGuids\obj\Debug\net8.0\ref\TestGuids.dll
